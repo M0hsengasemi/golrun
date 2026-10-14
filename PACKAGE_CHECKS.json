@@ -1,0 +1,10 @@
+{
+  "index_exists": true,
+  "manifest_valid_json": true,
+  "service_worker_present": true,
+  "android_workflow_present": true,
+  "pages_workflow_present": true,
+  "capacitor_config_present": true,
+  "android_www_html_present": true,
+  "apk_prebuilt": false
+}

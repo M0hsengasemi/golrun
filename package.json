@@ -1,0 +1,17 @@
+{
+  "name": "golrun-mobile",
+  "version": "6.2.0",
+  "private": true,
+  "description": "GolRun Persian vehicle marketplace mobile web app and Android wrapper",
+  "scripts": {
+    "android:sync": "cap sync android",
+    "android:open": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "7.4.3",
+    "@capacitor/core": "7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "7.4.3"
+  }
+}
